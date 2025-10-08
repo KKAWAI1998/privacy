@@ -1,58 +1,44 @@
 Privacy Policy
 
-QC Exam Level 2 Prep 2025 (the “Service”) handles users’ personal information and data under the following policy.
+personal information and data according to the following policy.
 
-Information We Collect
+Information Collected
 
-Contact and profile information: email address, nickname.
+None in particular.
 
-Device and app information: device model/OS, app version, crash logs, and analytics data related to usage.
+Purpose of Use
 
-Location information (optional): collected only when you choose features that require it; not collected continuously by default.
+The collected information, if any, is used for the provision, maintenance, and improvement of the Service, responding to inquiries, preventing unauthorized use, and sending important notifications.
 
-Purposes of Use
+Provision to Third Parties / External Transmission
 
-We use the collected information to:
+We do not provide personal information to third parties without the user’s consent, except as required by law.
 
-Provide, operate, maintain, and improve the Service
+Retention Period
 
-Respond to inquiries and provide customer support
-
-Prevent fraud and abuse and ensure security
-
-Send important notices (e.g., updates, changes to terms, service-related alerts)
-
-Third-Party Sharing & External Transmission
-
-We may use analytics tools (e.g., Google Analytics, Firebase). In such cases, certain data may be transmitted to those providers to perform analytics or related services.
-
-Except where required by law, we do not provide personal information to third parties without your consent.
-
-Data Retention
-
-We retain information only as long as necessary to fulfill the purposes above and delete it when it is no longer needed.
+Information will be retained only as long as necessary to achieve the purposes described above and will be deleted when no longer needed.
 
 Security Measures
 
-We implement appropriate safeguards, including access controls, encryption, and audit logging, to protect information from unauthorized access, loss, or disclosure.
+We implement appropriate security measures such as access control, encryption, and audit logging to protect personal information.
 
-Your Rights
+User Rights
 
-You may request disclosure, correction, deletion, or suspension of use of your personal information. Please contact us using the details below.
+Users have the right to request disclosure, correction, deletion, or suspension of use of their personal information. Please contact the inquiry desk below for such requests.
 
 Use by Minors
 
-If required under applicable law, minors must obtain consent from a parent or legal guardian before using the Service.
+Parental consent may be required for use by minors.
 
-Compliance and Review
+Compliance with Laws and Review of Policy
 
-We comply with applicable laws and regulations and review this policy from time to time. Material changes will be announced on this page.
+We comply with applicable laws and regulations and will review and improve this policy as necessary. Any significant changes will be announced on this page.
 
-Contact
+Contact Information
 
 Email: kfreelance0714@gmail.com
 
-Representative: 河合 (Kawai)
+Representative: Kawai
 
-Effective Date: September 18, 2025
-Last Updated: September 18, 2025
+Date of Enactment: September 18, 2025
+Last Revised: October 8, 2025
